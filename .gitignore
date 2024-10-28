@@ -3,3 +3,6 @@ tmp/
 *_backup
 *Thumbs.db
 *.DS_Store
+index.html_old
+img/
+.png_beckup
