@@ -1,10 +1,5 @@
-.png_beckup
-index.html_old
+Thumbs.db
+.DS_Store
 tmp/
 *_old
 *_backup
-*Thumbs.db
-*.DS_Store
-index.html_old
-img/
-.png_beckup
